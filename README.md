@@ -1,5 +1,5 @@
 # Ecommerce Website (College Project)
-This project was ceated by me and contrbuted by my team members.
+This project was ceated by me and contrbuted by my team members for Final year college project.
 
 This repository contain the source code and project report and project presentation.
 
